@@ -11,6 +11,7 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"fonts","folderPath":"folders/fonts.yy","name":"fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sound","folderPath":"folders/sound.yy","name":"sound","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"objetos","folderPath":"folders/objetos.yy","name":"objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"scripts","folderPath":"folders/scripts.yy","name":"scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -37,6 +38,8 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"snd_1","path":"sounds/snd_1/snd_1.yy",},},
+    {"id":{"name":"snd_2","path":"sounds/snd_2/snd_2.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
     {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},
