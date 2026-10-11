@@ -22,5 +22,12 @@ switch ( number_cutscene) //dependendo do número da variável "number_cutscene"
 	break;
 	case 3 : sprite_index = spr_cutscene_3;
 	break;
-	case 4 : instance_destroy();
+	case 4 : global.cutscene = false;
 }
+//se não tem cutscene
+//eu destrou meu obj_cutscene
+ 
+ if ( global.cutscene == false) 
+ {
+	instance_destroy(); 
+ }

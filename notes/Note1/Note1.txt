@@ -3,9 +3,10 @@ CLT_RUNNER
 1.	OBJETIVO DO JOGO		: Você deve pegar as comidas e ignorar os inimigos;
 2.	COMO JOGAR				: Aperte DIREITA ou ESQUERDA para ir para outra parede;
 3.	COMO PROGRAMAR		:
-	3.1. Cutscene : Fazer o jogo começar com uma cutscene, ao apertar SPACE, vai para a próxima
-	3.2 Ambiente : Criar o ambiente;
-	3.3 Objetos : Criar objetos de COMIDA, INIMIGO e PLAYER
-	3.4 Setas : Fazer com que, ao clicar a seta, o player vai para o outro lado;
-	3.5 Sprite : Inverte o sprite ao clicar na seta para não ficar estranho;
-	3.6 Comida e Inimigo : Fazer comidas ou inimigos nascerem aleatoriamente
+	3.1. Cutscene : Fazer o jogo começar com uma cutscene, ao apertar SPACE, vai para a próxima ==
+	3.2 Ambiente : Criar o ambiente; ==
+	3.3 Objetos : Criar objetos de COMIDA, INIMIGO e PLAYER ==
+	3.4 Setas : Fazer com que, ao clicar a seta, o player vai para o outro lado; ==
+	3.5 Sprite : Inverte o sprite ao clicar na seta para não ficar estranho; ==
+	3.6 Comida e Inimigo : Fazer comidas ou inimigos nascerem aleatoriamente ==
+	3.7 Efeitos : Fazer cada item fazer algo ao ser encostado pelo player==
