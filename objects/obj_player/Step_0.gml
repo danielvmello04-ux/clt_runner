@@ -7,7 +7,7 @@ if ( pos == "esquerda" and _right )
 	//o personagem vai para a direita
 	image_xscale = -1;
 	//a imagem inverte ( para a direita )
-	x = 163;
+	x = 163 * 2;
 	
 	//posição vira "direita"
 	pos = "direita";
@@ -20,7 +20,7 @@ if ( pos == "direita" and _left )
 	//o personagem vai para a esquerda
 	image_xscale = 1;
 	//a imagem inverte ( para a esquerda )
-	x = 18;
+	x = 35;
 	
 	//posição vira "esquerda"
 	pos = "esquerda";
